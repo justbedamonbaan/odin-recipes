@@ -1,0 +1,7 @@
+.recipe{
+    background-color: rgba(0, 195, 255, 0.664);
+}
+
+.recipe.title{
+    border: red solid 1px;
+}
